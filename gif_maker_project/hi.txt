@@ -1,0 +1,2 @@
+I am a curious young python developer and this is one of my fun projects!
+**download the pics of this project to run the code and do make sure to pip install imageio library!**
