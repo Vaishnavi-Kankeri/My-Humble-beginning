@@ -19,7 +19,8 @@ class Pokemon:
     print("Region: " + self.region)
 
 
-Pikachu = Pokemon(25, 'Pikachu', 'Electric', "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.", 'Pikachu has already been caught!', 'Kentai')
-
+Pikachu = Pokemon(25, 'Pikachu', 'Electric', "It has small electric sacs on both its cheeks. 
+If threatened, it looses electric charges from the sacs.", 'Pikachu has already been caught!', 'Kentai')
+## In your case try to keep the code in one line
 Pikachu.speak()
 Pikachu.display_details()
