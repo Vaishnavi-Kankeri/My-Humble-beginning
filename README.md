@@ -9,7 +9,7 @@ This repository contains my early Python projects — small experiments and crea
 ### [🎞️ GIF Maker Project](https://github.com/Vaishnavi-Kankeri/My-Humble-beginning/tree/11a1699e9eb1520b8e18caa5d4ebd23dc8cea0c6/gif_maker_project)
 
 A tool that lets users create animated GIFs from multiple images.  
-🛠️ Built using Python, Tkinter (for GUI), and Pillow (for image processing).
+🛠️ Built using Python and a library called imageio.v3
 
 ---
 
