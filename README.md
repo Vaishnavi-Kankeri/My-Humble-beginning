@@ -18,8 +18,8 @@ A tool that lets users create animated GIFs from multiple images.
 ### [🧪 Some Fun Projects](https://github.com/Vaishnavi-Kankeri/My-Humble-beginning/tree/main/Some%20fun%20projects)
 
 A collection of small, creative Python scripts:
-- 🎵 **99 Bottles**: Song lyrics generator
-- 📈 **Stock Analysis**: Basic stock data script
+- 🎵 **99 Bottles**: Song based fun activity
+- 📈 **Stock Analysis**: Basic stock analyser
 - 🎩 **Sorting Hat**: Personality quiz
 - 🏦 **Bank Account Simulator**
 - 🍔 **Drive-Thru Ordering System**
